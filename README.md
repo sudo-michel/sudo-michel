@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=sudo-michel&theme=blue-green)](https://github.com/sudo-michel)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-michel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
