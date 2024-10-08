@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a lot of thing
+- 🌱 I’m currently learning SQL databas
+- 📫 How to reach me: disord or mail
 
-- 💬 Ask me about
-- 📫 How to reach me:
-- ⚡ Fun fact: ...
 -->
 
 
@@ -31,5 +29,4 @@ Here are some ideas to get you started:
 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.python.org/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+
