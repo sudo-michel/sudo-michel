@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-michel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -28,6 +27,5 @@ Here are some ideas to get you started:
 
 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marius@sudo-michel.tech)
-[Email Address]()
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)()
 
