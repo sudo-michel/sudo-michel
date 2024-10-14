@@ -5,13 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a lot of thing
-- 🌱 I’m currently learning SQL databas
-- 📫 How to reach me: disord or mail
--🏢 Étudiant en STI2D SPE SIN
--🌱 python, go, c, web 
-🐧: Contactez-moi sur Discord: sudo-mihcel
-📬: Envoyez-moi un e-mail à marius@sud0-michel.tech
+-
+- 🏢 Étudiant en STI2D SPE SIN
+- 🌱 python, go, c, web 
+- 🐧: Contactez-moi sur Discord: sudo-mihcel
+- 📬: Envoyez-moi un e-mail à marius@sud0-michel.tech
 
 -->
 
