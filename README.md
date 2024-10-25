@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
--
+
+-->
+
 - 🏢 Étudiant en STI2D SPE SIN
 - 🌱 python, go, c, pyton, web
 - 🐧: Contactez-moi sur Discord: sudo-michel
 - 📬: Envoyez-moi un e-mail à marius@sud0-michel.tech
-
--->
-
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-michel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
